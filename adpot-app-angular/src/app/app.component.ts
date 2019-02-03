@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  // onNavigate() {
+  //   window.open("./animals.component.html", "_blank");
+  // }
   title = 'Adpoting Center';
 }
